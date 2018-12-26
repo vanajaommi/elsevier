@@ -1,0 +1,298 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    padding:0;
+    margin:0;
+    font-family: NexusSans,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin:auto !important;
+}
+header{
+    background-color:white;
+    width:100%;
+    height:15vh;
+    border-bottom: .075rem solid #dcdcdc;
+    border-top: .075rem solid #dcdcdc;
+}
+.logo img{
+    height: 5rem;
+    
+}
+a.carticon img {
+    margin-right: 28px;
+    margin-top: 27px;
+}
+a.menuicon {
+    margin-left: 10px;
+}
+span.cart {
+    position: relative;
+    float: right;
+    bottom: 36px;
+    padding-left: 14px;
+}
+.w-100{
+    width:100%;
+}
+a.register {
+    color: white;
+    background-color: #007398;
+    line-height: 3.2rem;
+    padding: 5px;
+}
+.bottommenu {
+    font-size: 23px;
+}
+.topmenu li a {
+
+    font-size: 13px;
+}
+ul#bottommenu {
+    list-style: none;
+}
+ul#topmenu li {
+    list-style: none;
+}
+section.top {
+    border-top: 2px solid #ccc;
+    padding: 20px;
+}
+ul.topicsinclude li {
+    list-style: disc;
+    color: orange;
+}
+ul.bottommenu li {
+    list-style: none;
+}
+.standout.standout-column ul li {
+    list-style: disc;
+    color: orange;
+}
+section.bottom {
+    border-top: 1px solid orange;
+    padding: 20px;
+}
+li.events a {
+    color: #ccc;
+    text-decoration: none;
+}
+li.international a {
+    color: #000;
+    text-decoration: none;
+}
+li.conferences a {
+    text-decoration: none;
+    color: #ccc;
+}
+li.home a {
+    color: #ccc;
+    text-decoration: none;
+}
+ul.first li a {
+    color: orange;
+}
+.leftcontentsection li {
+    list-style-type: disc;
+    color: orange;
+    margin-left: 20px;
+    padding: 0px;
+}
+li {
+    list-style:none;
+    padding-right: 20px;
+}
+span.search {
+    color: #000;
+}
+.f-end{
+    flex:flex-end;
+}
+span.search-icon {
+    padding-right: 8px;
+}
+span.menuicon {
+    padding-right: 8px;
+}
+span.carticon {
+    padding-right: 8px;
+}
+.socialshare img {
+    height: 6vh;
+}
+.leftcontentsection {
+    background-color: #ccc;
+    padding: 40px;
+    height: 400px;
+}
+.leftcontentsection li a {
+    font-size: 14px;
+}
+.standout-column {
+    background-color: #ebebeb;
+    padding: 1.325rem;
+    width: 50%;
+}
+.ai-center{
+align-items: center;
+}
+.jc-between{
+    justify-content: space-between !important;
+}
+.jc-center{
+    justify-content: center;
+}
+.topmenu {
+    padding: 10px;
+}
+.bottommenu {
+    padding: 10px;
+}
+.rightcontentsection p {
+    
+width:80%;
+    margin-left: 70px;
+    text-align: justify;
+}
+
+ul.bottommenu li a:hover {
+    color: orange;
+    text-decoration: none;
+}
+ul.bottommenu li {
+    margin-left: 68px;
+}
+ul#topmenu li {
+    padding-right: 0px;
+}
+.banner img {
+    width: 100%;
+}
+.leftsection {
+    width: 100%;
+}
+.topics {
+    margin-left: 70px;
+}
+
+@media  only screen and (min-width:1200px)
+{
+
+}
+@media  only screen and (min-width:992px) and (max-width:1199.98px)
+{
+    .banner img {
+        width: 100% !important;
+    }
+    .worksponsors {
+        flex-direction: column;
+    }
+    .exhibitors {
+        flex-direction: column;
+    }
+    .exhibitorsicons {
+        flex-direction: column;
+    }
+}
+@media  only screen and (min-width:768px) and (max-width:991.98px)
+{
+    .banner img {
+        width: 100% !important;
+    }
+    .worksponsors {
+        flex-direction: column;
+    }
+    .exhibitors {
+        flex-direction: column;
+    }
+    .exhibitorsicons {
+        flex-direction: column;
+    }
+}
+@media  only screen and (min-width:576px) and (max-width:767.98px)
+{
+    .banner img {
+        width: 100% !important;
+    }
+    .worksponsors {
+        flex-direction: column;
+    }
+    .exhibitors {
+        flex-direction: column;
+    }
+    .exhibitorsicons {
+        flex-direction: column;
+    }
+}
+@media  only screen and (max-width:575.98px)
+{
+    .banner img {
+        width: 100% !important;
+    }
+    .worksponsors {
+        flex-direction: column;
+    }
+    .exhibitors {
+        flex-direction: column;
+    }
+    .exhibitorsicons {
+        flex-direction: column;
+    }
+    ul.bottommenu li {
+        text-align: center;
+        width: 100%;
+    }
+    .footer-social {
+        text-align: center;
+    }
+    .region-container {
+        text-align: center;
+    }
+    li.accordion-navigation.last {
+        text-align: center;
+    }
+    .conferences{
+
+            text-overflow: ellipsis;
+            color: black;
+            white-space: nowrap;
+            overflow: hidden;
+            width: 160px;
+    }
+    .international{
+
+            text-overflow: ellipsis;
+            color: black;
+            white-space: nowrap;
+            overflow: hidden;
+    
+    }
+    .heading h1 {
+        font-size: 13px;
+    
+    }
+    span.menu {
+        display: none;
+    }
+    span.search {
+        display: none;
+    }
+    .maincontent {
+        flex-direction: column;
+    }
+    .mainsection {
+        flex-direction: column;
+    }
+    .support{
+        width: 100%;
+    text-align: center;
+    }
+    .worksponsors {
+        width: 100%;
+        text-align: center;
+    }
+    .exhibitors {
+        text-align: center;
+        width: 100%;
+    }
+}
