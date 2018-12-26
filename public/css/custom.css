@@ -229,15 +229,7 @@ ul#topmenu li {
     .banner img {
         width: 100% !important;
     }
-    .worksponsors {
-        flex-direction: column;
-    }
-    .exhibitors {
-        flex-direction: column;
-    }
-    .exhibitorsicons {
-        flex-direction: column;
-    }
+   
     ul.bottommenu li {
         text-align: center;
         width: 100%;
