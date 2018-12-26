@@ -14,6 +14,7 @@ render(){
                             <div  class="content"> 
                                 <ul class="first"> 
                                     <li><a href="">Scopus</a></li> 
+                                    
                                     <li><a href="">ScienceDirect</a></li> 
                                     <li><a href="">Mendeley</a></li> 
                                     <li><a href="">Evolve</a></li> 
@@ -76,16 +77,16 @@ render(){
                         <span class="heading">Follow Elsevier</span> 
                         <div class="socialshare"> 
                             <a href=""> 
-                                <img src="https://cdn.elsevier.io/verona/includes/svg/icon-social-facebook.svg"/> 
+                                <img src="https://cdn.elsevier.io/verona/includes/svg/icon-social-facebook.svg" alt=""/> 
                             </a> 
                             <a href=""> 
-                                <img src="https://cdn.elsevier.io/verona/includes/svg/icon-social-linkedin.svg" /> 
+                                <img src="https://cdn.elsevier.io/verona/includes/svg/icon-social-linkedin.svg" alt="" /> 
                             </a> 
                             <a href="" class="icon-social"> 
-                                <img  src="https://cdn.elsevier.io/verona/includes/svg/icon-social-twitter.svg" /> 
+                                <img  src="https://cdn.elsevier.io/verona/includes/svg/icon-social-twitter.svg" alt="" /> 
                             </a> 
                              <a href=""> 
-                                <img src="https://cdn.elsevier.io/verona/includes/svg/icon-social-youtube.svg" /> 
+                                <img src="https://cdn.elsevier.io/verona/includes/svg/icon-social-youtube.svg" alt="" /> 
                             </a>  
                         
                     </div>

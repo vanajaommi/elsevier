@@ -7,16 +7,16 @@ class Header extends Component {
           <header class='d-flex jc-between'>
             <div class='logo d-flex jc-center ai-center ml-5'>
               <img
-                src='https://www.elsevier.com/__data/assets/file/0003/278661/ELS_NS_Logo_2C_RGB.svg'
-                class='ns-tree hide-for-small'
-                alt='elsevier non solus tree'
+                src="../images/ELS_NS_Logo_2C_RGB.svg"
+                class='logoimg'
+                alt=''
               />
             </div>
             <div class='menubaricons d-flex jc-center ai-center mr-5'>
               <a class='searchicon' href='#'>
                 <span class='search-icon'>
                   <img
-                    src='//cdn.elsevier.io/verona/includes/svg/icon-magnify-glass-sized.svg'
+                    src="../images/icon-magnify-glass-sized.svg"
                     alt='Search'
                   />
                 </span>
@@ -29,7 +29,7 @@ class Header extends Component {
               <a class='menuicon'>
                 <span class='menuicon'>
                   <img
-                    src='https://cdn.elsevier.io/verona/includes/svg/icon-menu-hamburger-sized.svg'
+                    src='../images/icon-menu-hamburger-sized.svg'
                     alt='Menu'
                   />
                 </span>

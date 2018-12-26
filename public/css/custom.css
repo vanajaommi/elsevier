@@ -148,6 +148,9 @@ align-items: center;
 .bottommenu {
     padding: 10px;
 }
+ul#topmenu li a:hover {
+    color: orange;
+}
 .rightcontentsection p {
     
 width:80%;

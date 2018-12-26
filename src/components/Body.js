@@ -81,7 +81,7 @@ render(){
 
     
     <div class="worksponsors d-flex w-100">
-    <div class="col-12 col-sm-6  col-md-6 col-lg-6 col-xl-6">
+    
     <div class="magstim">
         <img src="../images/magstim.png" />
             
@@ -105,7 +105,7 @@ render(){
     <div class="neurophet">
          <img src="../images/neurophet.jpg" />
             
-    </div> 
+    
     </div>
     </div>
     </div>
